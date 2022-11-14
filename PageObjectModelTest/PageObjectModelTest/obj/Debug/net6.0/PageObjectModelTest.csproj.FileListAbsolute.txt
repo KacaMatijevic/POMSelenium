@@ -1,0 +1,5 @@
+C:\Users\QA36\source\repos\Kodiranje\PageObjectModelTest\PageObjectModelTest\obj\Debug\net6.0\PageObjectModelTest.csproj.AssemblyReference.cache
+C:\Users\QA36\source\repos\Kodiranje\PageObjectModelTest\PageObjectModelTest\obj\Debug\net6.0\PageObjectModelTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QA36\source\repos\Kodiranje\PageObjectModelTest\PageObjectModelTest\obj\Debug\net6.0\PageObjectModelTest.AssemblyInfoInputs.cache
+C:\Users\QA36\source\repos\Kodiranje\PageObjectModelTest\PageObjectModelTest\obj\Debug\net6.0\PageObjectModelTest.AssemblyInfo.cs
+C:\Users\QA36\source\repos\Kodiranje\PageObjectModelTest\PageObjectModelTest\obj\Debug\net6.0\PageObjectModelTest.csproj.CoreCompileInputs.cache
